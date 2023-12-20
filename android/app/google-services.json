@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168604411279",
+    "project_id": "mytodos-dafc7",
+    "storage_bucket": "mytodos-dafc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168604411279:android:ea6b3718f255f78d6497fa",
+        "android_client_info": {
+          "package_name": "com.todos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfNE5iNfUe263C7VIocaFN_mDSYMvGIlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
