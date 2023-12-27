@@ -1,8 +1,10 @@
 import { combineReducers, configureStore } from '@reduxjs/toolkit'
+import general from './general.slice';
+
 
 const rootReducer = combineReducers({
-
-})
+    general: general,
+});
 
 const store = configureStore({
     reducer: rootReducer,
